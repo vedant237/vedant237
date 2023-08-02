@@ -3,7 +3,7 @@
 <p align="left"> <img src="Blue Geometric Technology LinkedIn Banner.png"/> </p>
 
 
-- 🌱 I’m currently learning **Python and C++ Programming Languages.**
+- 🌱 I am a developer who enjoys working with Python, C++, and web development technologies such as HTML, CSS, and JavaScript. I am thrilled to share my knowledge and help you on your path to becoming a proficient programmer and web developer.
 
 - 📩 How to reach me : **vedantchaudhari237@gmail.com**
 
