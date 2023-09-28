@@ -33,6 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant237&show_icons=true&theme=elegant" alt="vedant237" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vedant237&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant237&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=vedant237)](https://holopin.io/@vedant237)
