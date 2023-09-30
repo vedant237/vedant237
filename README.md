@@ -1,6 +1,6 @@
 <h1 align="center">Hello there👋, I'm Vedant Chaudhari !</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant237&label=Profile%20views&color=0e75b6&style=flat" alt="vedant237" /> </p>
-<p align="left"> <img src="Blue Geometric Technology LinkedIn Banner.png"/> </p>
+<p align="left"> <img src="C:\Users\VISHWANATH CHAUDHARI\Downloads\Blue Geometric Technology LinkedIn Banner.png"/> </p>
 
 
 - 🌱 I am a developer who enjoys working with Python, C++, and web development technologies such as HTML, CSS, and JavaScript. I am thrilled to share my knowledge and help you on your path to becoming a proficient programmer and web developer.
