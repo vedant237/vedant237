@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant237&label=Profile%20views&color=0e75b6&style=flat" alt="vedant237" /> </p>
 <img src="""" width="100%" title="Intro Card" alt="Intro Card">
 </p>
-- 🌱 I am a developer who enjoys working with Python, C++, and web development technologies such as HTML, CSS, and JavaScript. I am thrilled to share my knowledge and help you on your path to becoming a proficient programmer and web developer.
+- 🌱 I am a Developer who enjoys working with Python, C++, and Web Development Technologies such as HTML, CSS, and JavaScript. I am thrilled to share my knowledge and help you on your path to becoming a proficient programmer and web developer.
 
 - 📩 How to reach me : **vedantchaudhari237@gmail.com**
 
