@@ -51,37 +51,28 @@ Graduate path through the **International Institute of Information Technology**,
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="12" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedant237/vedant237/assets/dashboard-metrics-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/vedant237/vedant237/assets/dashboard-metrics.svg" alt="GitHub metrics" width="100%"/>
+</picture>
+
+<br/>
+
+<table border="0" cellpadding="0" cellspacing="10" width="100%">
   <tr>
-    <td align="center" colspan="2">
-      <img
-        src="https://github-readme-stats-sigma.vercel.app/api?username=vedant237&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9&border_radius=14&ring_color=00D9FF&custom_title=Vedant%27s%20GitHub%20Stats&include_all_commits=true&rank_icon=github"
-        alt="GitHub stats"
-      />
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant237&theme=2077" alt="Contribution stats" width="100%"/>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img
-        src="https://streak-stats.demolab.com/?user=vedant237&theme=dark&hide_border=true&background=0D0221&stroke=00D9FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=30363D&border_radius=14"
-        alt="Contribution streak"
-      />
+    <td width="50%" align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com/?user=vedant237&theme=dark&hide_border=true&background=0D0221&stroke=00D9FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=30363D" alt="Contribution streak" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant237&theme=2077"
-        alt="Languages by repository"
-        width="100%"
-      />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant237&theme=2077" alt="Languages by repository" width="100%"/>
     </td>
     <td width="50%" align="center" valign="top">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant237&theme=2077"
-        alt="Languages by commit"
-        width="100%"
-      />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant237&theme=2077" alt="Languages by commit" width="100%"/>
     </td>
   </tr>
 </table>
@@ -118,7 +109,6 @@ Graduate path through the **International Institute of Information Technology**,
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant%20Chaudhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-chaudhari-a291a91b9/)
-[![Twitter](https://img.shields.io/badge/X-@veds__07-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/veds_07)
 [![Email](https://img.shields.io/badge/Email-vedantchaudhari237%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantchaudhari237@gmail.com)
 
 </div>

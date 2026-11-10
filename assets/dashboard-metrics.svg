@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="GitHub metrics">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4158D0"/>
+      <stop offset="100%" stop-color="#C850C0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" rx="16" fill="#F6F8FA" stroke="url(#g)" stroke-width="2"/>
+  <text x="32" y="38" fill="#0969DA" font-family="Segoe UI, system-ui, sans-serif" font-size="22" font-weight="700">¡ LIVE METRICS</text>
+  <text x="32" y="62" fill="#57606A" font-family="Segoe UI, system-ui, sans-serif" font-size="13">vedant237 · Software Developer · Yardi</text>
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" fill="#24292F">
+    <text x="32" y="98"><tspan fill="#0969DA">14</tspan> repos</text>
+    <text x="180" y="98"><tspan fill="#8250DF">18</tspan> followers</text>
+    <text x="380" y="98"><tspan fill="#BF3989">3</tspan> stars</text>
+    <text x="540" y="98">since <tspan fill="#CF222E">2022</tspan></text>
+  </g>
+</svg>
