@@ -14,7 +14,7 @@
 
 ---
 
-## 💼 Software developer · intro
+## 💼 Software Developer · Intro
 
 <h3 align="center" style="font-family: 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.5px;">
   <strong>Vedant Chaudhari</strong>
@@ -108,7 +108,7 @@
 
 ---
 
-## 🤝 Let’s connect
+## 🤝 Let’s Connect
 
 <div align="center">
 
@@ -119,16 +119,31 @@
 
 ---
 
-## 🐍 Contribution snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<!-- First run: Actions → Generate snake animation → Run workflow (creates branch `output`) -->
+<sub>📅 <strong>2024 → 2026</strong> · monthly grid · rebuilt every Monday (IST)</sub>
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedant237/vedant237/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedant237/vedant237/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution snake (regenerates weekly via GitHub Actions)" src="https://raw.githubusercontent.com/vedant237/vedant237/output/github-contribution-grid-snake-dark.svg"/>
+  <img
+    alt="Contribution Snake — commit calendar with month labels"
+    src="https://raw.githubusercontent.com/vedant237/vedant237/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
 </picture>
+
+<br/>
+
+<img src="https://ghchart.rshah.org/2196F3/vedant237" alt="Contribution activity by month" width="100%"/>
+
+<p>
+  <sub>Top: snake animation · bottom: classic month view (fallback if snake cache is empty)</sub>
+</p>
 
 </div>
 
