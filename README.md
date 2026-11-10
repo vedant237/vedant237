@@ -1,99 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=180&section=header&text=Vedant%20Chaudhari&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Vedant Chaudhari"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vedant%20Chaudhari&fontSize=42&fontColor=00d9ff&animation=fadein&fontAlignY=38&desc=Software%20Developer&descSize=18&descAlignY=58&descAlign=62" alt="Vedant Chaudhari"/>
 
-### ML · Python · Web · BITS WILP AIML
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=620&lines=Software+Developer+%40+Yardi;International+Institute+of+Information+Technology;Python+%7C+JavaScript+%7C+C%2F%2B%2B;Building+products+that+scale+in+the+real+world)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=580&lines=Full-Stack+%26+ML+Enthusiast;BITS+WILP+AIML+Student+%40+IIIT+Pune;Python+%7C+Streamlit+%7C+JavaScript;Turning+ideas+into+shipped+projects)](https://git.io/typing-svg)
+<br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=vedant237&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/vedant237)
-[![GitHub User's stars](https://img.shields.io/github/stars/vedant237?logo=github&style=for-the-badge&color=8b5cf6&labelColor=1e1e2e)](https://github.com/vedant237?tab=stars)
+[![Profile views](https://komarev.com/ghpvc/?username=vedant237&label=Profile%20views&color=00d9ff&style=for-the-badge)](https://github.com/vedant237)
+[![GitHub stars](https://img.shields.io/github/stars/vedant237?style=for-the-badge&logo=github&color=7c3aed&labelColor=0f0c29)](https://github.com/vedant237?tab=stars)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-chaudhari-a291a91b9/)
 
 </div>
 
 ---
 
-## 👋 Intro
+## 💼 Software developer · intro
 
-I'm **Vedant Chaudhari** — a developer based in **Pune, Maharashtra**, studying **AIML (BITS WILP)** while working through **IIIT Pune**. I like building things end to end: train a model, wrap it in an app, and ship a clean README.
+**Vedant Chaudhari** — **Software Developer** at [**Yardi Software Pvt Limited**](https://www.yardi.com/), shaping reliable software for real users.  
+Graduate path through the **International Institute of Information Technology**, with a strong base in algorithms, systems, and full-stack delivery.
 
-- 🔭 **Now:** ML assignments, Streamlit dashboards, and Jira-related tooling  
-- 🌱 **Stack:** Python, C/C++, JavaScript, HTML/CSS, SQL  
-- 🎯 **Focus:** Applied ML, data apps, and polished frontends  
-- 📬 **Reach me:** [vedantchaudhari237@gmail.com](mailto:vedantchaudhari237@gmail.com)
+```text
+  Role      →  Software Developer
+  Company   →  Yardi Software Pvt Limited
+  College   →  International Institute of Information Technology
+  Based in  →  Pune, Maharashtra
+  Email     →  vedantchaudhari237@gmail.com
+```
+
+- 🔭 **Currently:** Production-focused development, internal tooling, and sharp side projects on GitHub  
+- ⚡ **Strengths:** Problem decomposition, clean APIs, debugging with intent  
+- 🧰 **Toolbox:** Python · JavaScript/Node · C/C++ · Java · HTML/CSS · SQL  
+- 🎯 **Into:** Developer productivity, data-driven apps, crisp UI, automation around workflows (e.g. Jira)  
+- 📬 **Contact:** [vedantchaudhari237@gmail.com](mailto:vedantchaudhari237@gmail.com)
 
 <details>
-<summary><b>✨ Quick facts</b></summary>
+<summary><b>Snapshot</b></summary>
 
 | | |
 |---|---|
-| 🏫 | International Institute of Information Technology, Pune |
-| 📚 | BITS WILP — AIML |
-| 🐙 | 14+ public repos · open to collab on Python / ML / web |
+| 💼 | Software Developer — **Yardi Software Pvt Limited** |
+| 🎓 | **International Institute of Information Technology** |
+| 📍 | Pune, Maharashtra, India |
+| 🐙 | Open-source experiments & reference repos on [GitHub](https://github.com/vedant237) |
 
 </details>
 
 ---
 
-## 📊 GitHub dashboard
+## 📡 Live dashboards
 
 <div align="center">
 
+### Overview
+
+<a href="https://github.com/vedant237">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant237&theme=github_dark" alt="Profile details" width="49%"/>
+</a>
+<a href="https://github.com/vedant237">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant237&theme=github_dark" alt="Contribution stats" width="49%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/vedant237">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant237&theme=github_dark" alt="Repos per language" width="49%"/>
+</a>
+<a href="https://github.com/vedant237">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant237&theme=github_dark" alt="Most commit language" width="49%"/>
+</a>
+
+<br/><br/>
+
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=vedant237&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&custom_title=Vedant%27s%20GitHub%20Stats" alt="GitHub stats" />
+    <td width="55%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=vedant237&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&rank_icon=percentile" alt="GitHub stats"/>
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant237&theme=tokyonight&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=ffcc70&currStreakLabel=ffcc70" alt="GitHub streak" />
+    <td width="45%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant237&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&layout=donut-vertical&langs_count=6&card_width=280" alt="Top languages donut"/>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant237&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=450" alt="Top languages" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=vedant237&theme=discord&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="GitHub trophies" />
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=vedant237&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=7C3AED&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF" alt="Contribution streak"/>
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant237&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=c850c0&point=ffcc70&radius=10" alt="Contribution activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant237&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ff6b6b&area=true&hide_border=true&theme=react" alt="Contribution graph" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vedant237&theme=grimoire&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="GitHub trophies"/>
 
 </div>
 
 ---
 
-## 🚀 Featured work
+## 🚀 Selected repositories
 
-| Project | What it is |
-|--------|------------|
-| [**AIML-ML-Assignment-2**](https://github.com/vedant237/AIML-ML-Assignment-2) | Mobile price classification — sklearn models + **Streamlit** app |
-| [**Python-Basic-Programs**](https://github.com/vedant237/Python-Basic-Programs) | Core Python drills and small programs |
-| [**CPP-Basic-Programs**](https://github.com/vedant237/CPP-Basic-Programs) | C++ fundamentals with clear examples |
-| [**Jira-Timesheet**](https://github.com/vedant237/Jira-Timesheet) | JavaScript tooling around Jira workflows |
-| [**Retro-Animated-Webpage**](https://github.com/vedant237/Retro-Animated-Webpage) | CSS-driven retro UI experiments |
+| Repository | Highlight |
+|------------|-----------|
+| [**Jira-Timesheet**](https://github.com/vedant237/Jira-Timesheet) | JS tooling for Jira-centric workflows |
+| [**Jira-App**](https://github.com/vedant237/Jira-App) | App experiments around issue tracking |
+| [**AIML-ML-Assignment-2**](https://github.com/vedant237/AIML-ML-Assignment-2) | End-to-end ML pipeline + Streamlit UI |
+| [**Python-Basic-Programs**](https://github.com/vedant237/Python-Basic-Programs) | Python fundamentals & patterns |
+| [**CPP-Basic-Programs**](https://github.com/vedant237/CPP-Basic-Programs) | C++ building blocks |
+| [**Google-CLoud**](https://github.com/vedant237/Google-CLoud) | Cloud / Python scripts |
 
 ---
 
-## 🛠 Tech stack
+## 🛠 Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,js,html,css,bootstrap,nodejs,mongodb,mysql,git,github,vscode,linux&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,nodejs,java,cpp,c,html,css,bootstrap,mongodb,mysql,git,github,vscode,linux,docker&perline=8)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 🤝 Connect
+## 🤝 Let’s connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-chaudhari-a291a91b9/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/veds_07)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantchaudhari237@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedant237)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant%20Chaudhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-chaudhari-a291a91b9/)
+[![Twitter](https://img.shields.io/badge/X-@veds__07-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/veds_07)
+[![Email](https://img.shields.io/badge/Email-vedantchaudhari237%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantchaudhari237@gmail.com)
 
 </div>
 
@@ -103,10 +134,9 @@ I'm **Vedant Chaudhari** — a developer based in **Pune, Maharashtra**, studyin
 
 <div align="center">
 
-<!-- Generated weekly by .github/workflows/snake.yml — appears after first workflow run -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedant237/vedant237/output/github-contribution-grid-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/vedant237/vedant237/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions"/>
+  <img src="https://raw.githubusercontent.com/vedant237/vedant237/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 </picture>
 
 </div>
@@ -115,8 +145,6 @@ I'm **Vedant Chaudhari** — a developer based in **Pune, Maharashtra**, studyin
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=100&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=fff&animation=twinkling" alt="Footer"/>
-
-⭐️ *If you like a repo, a star helps more than you think.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:7c3aed,100:00d9ff&height=90&section=footer&text=Ship.%20Learn.%20Repeat.&fontSize=22&fontColor=fff&animation=fadein"/>
 
 </div>
