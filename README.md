@@ -49,47 +49,31 @@ Graduate path through the **International Institute of Information Technology**,
 
 ## 📡 Live dashboards
 
+> Cards below use **[github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)** and **[streak-stats.demolab](https://streak-stats.demolab.com)** — they load reliably on GitHub (unlike some Vercel stats APIs that often 503).
+
 <div align="center">
 
-### Overview
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant237&theme=dracula)
 
-<a href="https://github.com/vedant237">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant237&theme=github_dark" alt="Profile details" width="49%"/>
-</a>
-<a href="https://github.com/vedant237">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant237&theme=github_dark" alt="Contribution stats" width="49%"/>
-</a>
+![Contribution stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant237&theme=dracula)
 
-<br/><br/>
-
-<a href="https://github.com/vedant237">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant237&theme=github_dark" alt="Repos per language" width="49%"/>
-</a>
-<a href="https://github.com/vedant237">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant237&theme=github_dark" alt="Most commit language" width="49%"/>
-</a>
-
-<br/><br/>
+![Contribution streak](https://streak-stats.demolab.com/?user=vedant237&theme=dracula&hide_border=false&background=282A36F0&stroke=00D9FF&ring=BD93F9&fire=FF5555&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6272A4)
 
 <table>
   <tr>
-    <td width="55%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=vedant237&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&rank_icon=percentile" alt="GitHub stats"/>
+    <td valign="top" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant237&theme=dracula" alt="Repos per language" width="100%"/>
     </td>
-    <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant237&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&layout=donut-vertical&langs_count=6&card_width=280" alt="Top languages donut"/>
+    <td valign="top" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant237&theme=dracula" alt="Most used languages in commits" width="100%"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=vedant237&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=7C3AED&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF" alt="Contribution streak"/>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedant237&theme=dracula&utcOffset=5.5" alt="Productive commit times (IST)" width="100%"/>
     </td>
   </tr>
 </table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant237&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ff6b6b&area=true&hide_border=true&theme=react" alt="Contribution graph" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vedant237&theme=grimoire&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="GitHub trophies"/>
 
 </div>
 
@@ -134,9 +118,11 @@ Graduate path through the **International Institute of Information Technology**,
 
 <div align="center">
 
+<!-- First run: Actions → Generate snake animation → Run workflow (creates branch `output`) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedant237/vedant237/output/github-contribution-grid-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/vedant237/vedant237/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedant237/vedant237/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake (regenerates weekly via GitHub Actions)" src="https://raw.githubusercontent.com/vedant237/vedant237/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
