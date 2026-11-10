@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vedant%20Chaudhari&fontSize=44&fontColor=00d9ff&font=Inter&animation=fadein&fontAlignY=38&desc=Software%20Developer&descSize=19&descAlignY=58&descAlign=62" alt="Vedant Chaudhari"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2800&pause=850&color=00D9FF&center=true&vCenter=true&width=680&lines=Software+Developer+%40+Yardi;International+Institute+of+Information+Technology;Python+%7C+JavaScript+%7C+C%2F%2B%2B;Building+products+that+scale+in+the+real+world)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2800&pause=850&color=00D9FF&center=true&vCenter=true&width=680&lines=Software+Developer+%40+Yardi;International+Institute+of+Information+Technology;.NET+%7C+C%23+%7C+Python+%7C+JavaScript;Building+products+that+scale+in+the+real+world)](https://git.io/typing-svg)
 
 <br/>
 
@@ -40,7 +40,7 @@
 
 - 🔭 **Currently:** Production-focused development, internal tooling, and sharp side projects on GitHub  
 - ⚡ **Strengths:** Problem decomposition, clean APIs, debugging with intent  
-- 🧰 **Toolbox:** Python · JavaScript/Node · C/C++ · Java · HTML/CSS · SQL  
+- 🧰 **Toolbox:** .NET / C# · Python · JavaScript/Node · C/C++ · Java · HTML/CSS · SQL  
 - 🎯 **Into:** Developer productivity, data-driven apps, crisp UI, automation around workflows (e.g. Jira)  
 - 📬 **Contact:** [vedantchaudhari237@gmail.com](mailto:vedantchaudhari237@gmail.com)
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,js,ts,nodejs,java,cpp,c,html,css,bootstrap,mongodb,mysql,git,github,vscode,linux,docker&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,azure,python,js,ts,nodejs,java,cpp,c,html,css,bootstrap,mongodb,mysql,mssql,git,github,vscode,linux,docker&perline=10)](https://skillicons.dev)
 
 </div>
 
