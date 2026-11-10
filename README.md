@@ -71,11 +71,8 @@
 
 <table border="0" cellpadding="8" cellspacing="0" width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant237&theme=nightowl" alt="Contribution stats" width="100%"/>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedant237&theme=nightowl&utcOffset=5.5" alt="Productive hours (IST)" width="100%"/>
+    <td align="center" colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant237&theme=nightowl" alt="Contribution stats"/>
     </td>
   </tr>
   <tr>
