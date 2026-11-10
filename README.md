@@ -1,37 +1,122 @@
-<h1 align="center">Hello there👋, I'm Vedant Chaudhari !</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant237&label=Profile%20views&color=0e75b6&style=flat" alt="vedant237" /> </p>
-<img src="""" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-- 🌱 I am a Developer who enjoys working with Python, C++, and Web Development Technologies such as HTML, CSS, and JavaScript. I am thrilled to share my knowledge and help you on your path to becoming a proficient programmer and web developer.
+<div align="center">
 
-- 📩 How to reach me : **vedantchaudhari237@gmail.com**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=180&section=header&text=Vedant%20Chaudhari&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Vedant Chaudhari"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/veds_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veds_07" height="30" width="40" /></a> 
- <a href="https://linkedin.com/in/vedant-chaudhari-a291a91b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-chaudhari-a291a91b9" height="30" width="40" /></a>
-</p>
+### ML · Python · Web · BITS WILP AIML
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<p>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
- <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
- <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=580&lines=Full-Stack+%26+ML+Enthusiast;BITS+WILP+AIML+Student+%40+IIIT+Pune;Python+%7C+Streamlit+%7C+JavaScript;Turning+ideas+into+shipped+projects)](https://git.io/typing-svg)
 
+[![Profile views](https://komarev.com/ghpvc/?username=vedant237&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/vedant237)
+[![GitHub User's stars](https://img.shields.io/github/stars/vedant237?logo=github&style=for-the-badge&color=8b5cf6&labelColor=1e1e2e)](https://github.com/vedant237?tab=stars)
 
-</p>
+</div>
 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedant237&show_icons=true&theme=yeblu)
+## 👋 Intro
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant237&layout=pie&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+I'm **Vedant Chaudhari** — a developer based in **Pune, Maharashtra**, studying **AIML (BITS WILP)** while working through **IIIT Pune**. I like building things end to end: train a model, wrap it in an app, and ship a clean README.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant237&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🔭 **Now:** ML assignments, Streamlit dashboards, and Jira-related tooling  
+- 🌱 **Stack:** Python, C/C++, JavaScript, HTML/CSS, SQL  
+- 🎯 **Focus:** Applied ML, data apps, and polished frontends  
+- 📬 **Reach me:** [vedantchaudhari237@gmail.com](mailto:vedantchaudhari237@gmail.com)
 
+<details>
+<summary><b>✨ Quick facts</b></summary>
+
+| | |
+|---|---|
+| 🏫 | International Institute of Information Technology, Pune |
+| 📚 | BITS WILP — AIML |
+| 🐙 | 14+ public repos · open to collab on Python / ML / web |
+
+</details>
+
+---
+
+## 📊 GitHub dashboard
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=vedant237&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&custom_title=Vedant%27s%20GitHub%20Stats" alt="GitHub stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant237&theme=tokyonight&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=ffcc70&currStreakLabel=ffcc70" alt="GitHub streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant237&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=450" alt="Top languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=vedant237&theme=discord&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="GitHub trophies" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant237&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=c850c0&point=ffcc70&radius=10" alt="Contribution activity graph" width="100%"/>
+
+</div>
+
+---
+
+## 🚀 Featured work
+
+| Project | What it is |
+|--------|------------|
+| [**AIML-ML-Assignment-2**](https://github.com/vedant237/AIML-ML-Assignment-2) | Mobile price classification — sklearn models + **Streamlit** app |
+| [**Python-Basic-Programs**](https://github.com/vedant237/Python-Basic-Programs) | Core Python drills and small programs |
+| [**CPP-Basic-Programs**](https://github.com/vedant237/CPP-Basic-Programs) | C++ fundamentals with clear examples |
+| [**Jira-Timesheet**](https://github.com/vedant237/Jira-Timesheet) | JavaScript tooling around Jira workflows |
+| [**Retro-Animated-Webpage**](https://github.com/vedant237/Retro-Animated-Webpage) | CSS-driven retro UI experiments |
+
+---
+
+## 🛠 Tech stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,js,html,css,bootstrap,nodejs,mongodb,mysql,git,github,vscode,linux&perline=8)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-chaudhari-a291a91b9/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/veds_07)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantchaudhari237@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedant237)
+
+</div>
+
+---
+
+## 🐍 Contribution snake
+
+<div align="center">
+
+<!-- Generated weekly by .github/workflows/snake.yml — appears after first workflow run -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedant237/vedant237/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/vedant237/vedant237/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions"/>
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=100&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=fff&animation=twinkling" alt="Footer"/>
+
+⭐️ *If you like a repo, a star helps more than you think.*
+
+</div>
